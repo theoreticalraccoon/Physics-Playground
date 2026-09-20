@@ -1,0 +1,11 @@
+{
+  "name": "physics-playground",
+  "version": "1.0.0",
+  "description": "Interactive maths-first physics stand for an edutainment fair.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node tests/run.js",
+    "serve": "python -m http.server 8080"
+  }
+}
